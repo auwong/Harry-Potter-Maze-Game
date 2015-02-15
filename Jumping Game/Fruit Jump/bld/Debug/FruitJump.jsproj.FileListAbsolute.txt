@@ -1,0 +1,13 @@
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bin\Debug\resources.pri
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bin\Debug\AppxManifest.xml
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\priconfig.xml.intermediate
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\layout.resfiles.intermediate
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\resources.resfiles.intermediate
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\pri.resfiles.intermediate
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\priconfig.xml
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\layout.resfiles
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\resources.resfiles
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\pri.resfiles
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\LanguageQualifiers.txt
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bld\Debug\ProjectArchitectures.txt
+C:\Users\Ada\Dropbox\Jumping Game\Fruit Jump\bin\Debug\FruitJump.build.appxrecipe

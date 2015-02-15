@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CurrentApp>
+  <ListingInformation>
+    <App>
+      <AppId>00000000-0000-0000-0000-000000000000</AppId>
+      <LinkUri>http://apps.windows.microsoft.com/app/00000000-0000-0000-0000-000000000000</LinkUri>
+      <CurrentMarket>en-US</CurrentMarket>
+      <AgeRating>7</AgeRating>
+      <MarketData xml:lang="en-us">
+        <Name>Full license</Name>
+        <Description>Purchase the app</Description>
+        <Price>4.99</Price>
+        <CurrencySymbol>$</CurrencySymbol>
+      </MarketData>
+    </App>
+  </ListingInformation>
+  <LicenseInformation>
+    <App>
+      <IsActive>true</IsActive>
+      <IsTrial>true</IsTrial>
+      <ExpirationDate>2013-06-01T05:00:00.00Z</ExpirationDate>
+    </App>
+	<!-- Include to test product purchases -->
+	<!--
+	<Product ProductId="my_product_id">
+		<IsActive>false</IsActive>
+	</Product>
+	-->
+  </LicenseInformation>
+</CurrentApp>
